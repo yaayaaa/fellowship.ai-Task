@@ -1,7 +1,7 @@
 # fellowship.ai Task
 This repo is part of the interview process for fellowship.ai
 
-##Through the Notebook I demonstrated how we can do transfer learning with PyTorch for the Resnet50 model with its pre-trained weights
+**Through the Notebook I demonstrated how we can do transfer learning with PyTorch for the Resnet50 model with its pre-trained weights**
 
 We used the data set of Stanford cars but tweaked one which the data is as the below 
 
