@@ -32,7 +32,7 @@ We used the data set of Stanford cars but tweaked one which the data is as the b
  
  Lastly, transfer learning is a very powerful approach to solving problems like this and it could be used.
  
-##the transfer learning concept in a snippet and why the first model did better than the other two:
+ **The transfer learning concept in a snippet and why the first model did better than the other two:**
   
   The transfer learning concept is taking a model and its weights' which did pretty good on some classification problem like resnet50 VGG16 or so whatever and use it as a feature generator to the classification layers and just train the last classification layers as needed and you can edit the structure of the model to match your data set and how you need it to be and that's how I did use it for the first model of the notebook.
   
