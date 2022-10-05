@@ -34,7 +34,7 @@ We used the data set of Stanford cars but tweaked one which the data is as the b
  
  **The transfer learning concept in a snippet and why the first model did better than the other two:**
   
-  The transfer learning concept is taking a model and its weights' which did pretty good on some classification problem like resnet50 VGG16 or so whatever and use it as a feature generator to the classification layers and just train the last classification layers as needed and you can edit the structure of the model to match your data set and how you need it to be and that's how I did use it for the first model of the notebook.
+1. The transfer learning concept is taking a model and its weights' which did pretty good on some classification problem like resnet50 VGG16 or so whatever and use it as a feature generator to the classification layers and just train the last classification layers as needed and you can edit the structure of the model to match your data set and how you need it to be and that's how I did use it for the first model of the notebook.
   
-  And if it doesn't give you the accuracy you need you can unfreeze some of the late layers to tweak the generation of the sophisticated feature.
+2. And if it doesn't give you the accuracy you need you can unfreeze some of the late layers to tweak the generation of the sophisticated feature.
   because the early layers are responsible of more naive feature generation which leads to more of the sophisticated features
