@@ -6,19 +6,35 @@ This repo is part of the interview process for fellowship.ai
 We used the data set of Stanford cars but tweaked one which the data is as the below 
 
 ----->root directory
+    
+    
     |
     |
+    
+    
     -> stanford-cars-dataset
+    
     |
     |
+    
+    
     -->train
+    
     |
     |
+    
+    
     ---> classes
     ---> classes
+    
+    
     |
     |
+    
+    
     -->test
+    
+    
     |
     |
     ---> classes
